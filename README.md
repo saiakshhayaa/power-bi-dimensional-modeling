@@ -88,7 +88,8 @@ The model brings together data related to sales, customers, products, inventory,
 
 ## 📁 Project Structure
 
-    d_data_modeling_project/
+    
+    data_modeling_project/
     │
     ├── dimensional_modeling_project.pbix
     ├── dataset.xlsx
